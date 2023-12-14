@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_SPRX" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <PROXY_HEADER>
+    <item>
+     <OBJECT>TABL</OBJECT>
+     <OBJ_NAME>ZDT_JSONPLACEHOLDER_RES</OBJ_NAME>
+     <OBJECT_M>TABL</OBJECT_M>
+     <OBJ_NAME_M>ZDT_JSONPLACEHOLDER_RES</OBJ_NAME_M>
+     <HASH_ID>4F9D6A228B67B6124CC0E0F7BD60C5A293CFB2B7</HASH_ID>
+     <ID>&lt;type&gt; DT_JSONPlaceholder_Res urn:cpi:proxy urn:cpi:proxy</ID>
+     <IFR_GLOBAL>X</IFR_GLOBAL>
+     <IFR_TYPE>type</IFR_TYPE>
+     <IFR_NAME>DT_JSONPlaceholder_Res</IFR_NAME>
+     <IFR_NSPCE>urn:cpi:proxy</IFR_NSPCE>
+     <IFR_GNSPCE>urn:cpi:proxy</IFR_GNSPCE>
+     <GEN_VERS>0001</GEN_VERS>
+     <PREFIX>Z</PREFIX>
+     <CATEGORY>ifmtypedef</CATEGORY>
+     <GEN_APPL>BACKENDMDR</GEN_APPL>
+     <X-ML_NSPCE>urn:cpi:proxy</X-ML_NSPCE>
+     <X-ML_NAME>DT_JSONPlaceholder_Res</X-ML_NAME>
+    </item>
+   </PROXY_HEADER>
+   <PROXY_DATA>
+    <item>
+     <OBJECT>TABL</OBJECT>
+     <OBJ_NAME>ZDT_JSONPLACEHOLDER_RES</OBJ_NAME>
+     <OBJECT1>TABL</OBJECT1>
+     <OBJ_NAME1>ZDT_JSONPLACEHOLDER_RES</OBJ_NAME1>
+     <OBJECT2>TABL</OBJECT2>
+     <OBJ_NAME2>ZDT_JSONPLACEHOLDER_RES</OBJ_NAME2>
+     <ID>&lt;type&gt; DT_JSONPlaceholder_Res urn:cpi:proxy urn:cpi:proxy</ID>
+     <IFR_TYPE>type</IFR_TYPE>
+     <IFR_NAME>DT_JSONPlaceholder_Res</IFR_NAME>
+     <IFR_SCALE>-2</IFR_SCALE>
+     <R3_TYPE>TABL</R3_TYPE>
+     <R3_NAME>ZDT_JSONPLACEHOLDER_RES</R3_NAME>
+     <CATEGORY>ifmtypedef</CATEGORY>
+    </item>
+   </PROXY_DATA>
+  </asx:values>
+ </asx:abap>
+</abapGit>
